@@ -1,0 +1,13 @@
+Task 3 – Networking Basics for Cyber Security
+
+Tool Used:
+Wireshark
+
+Observations:
+1. Live network traffic was captured using Wireshark.
+2. TCP packets were analyzed and ACK flags were observed, indicating established TCP connections.
+3. HTTPS (TLS) traffic was observed where the data was encrypted and not readable.
+4. DNS traffic was captured where domain names were visible in plain text.
+
+Conclusion:
+This task helped me understand how network traffic can be captured and analyzed using Wireshark.
